@@ -1,0 +1,10 @@
+{
+  "name":"mickey-up-poc",
+  "regions": ["us-east-1"],
+  "lambda": {
+    "memory": 128
+  },
+  "tags":{
+  	"email":"mickeyyawn@gmail.com"
+  }
+}
